@@ -1,0 +1,60 @@
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\bin\Debug\ELaip.exe.config
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\bin\Debug\ELaip.exe
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\bin\Debug\ELaip.pdb
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.csprojResolveAssemblyReference.cache
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Properties.Resources.resources
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.csproj.GenerateResource.Cache
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.exe
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.pdb
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmLogin.resources
+c:\users\farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPrincipal.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmEntrenamiento.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmRegistro.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmAjustes.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmHistorial.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmResultados.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPerfil.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmReportes.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmEmpezar.resources
+C:\Users\Farad\documents\visual studio 2015\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPerfilDoctor.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\bin\Debug\ELaip.exe.config
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.exe
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.pdb
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\bin\Debug\ELaip.exe
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\bin\Debug\ELaip.pdb
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.csprojResolveAssemblyReference.cache
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Form1.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmAjustes.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmEmpezar.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmEntrenamiento.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmHistorial.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmLogin.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPerfil.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPerfilDoctor.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPrincipal.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmRegistro.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmReportes.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmResultados.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.Properties.Resources.resources
+C:\Users\SEBASTIAN CARDONA\Documents\documentos\8 SEMESTRE\GRUPO ESPECIAL\ImagineCup 2016\ELaip\ELaip\obj\Debug\ELaip.csproj.GenerateResource.Cache
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\bin\Debug\ELaip.exe.config
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.exe
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.pdb
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.csprojResolveAssemblyReference.cache
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmAjustes.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmEmpezar.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmEntrenamiento.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmHistorial.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmLogin.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPerfil.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPerfilDoctor.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmPrincipal.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmRegistro.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmReportes.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmResultados.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Properties.Resources.resources
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.csproj.GenerateResource.Cache
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\bin\Debug\ELaip.exe
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\bin\Debug\ELaip.pdb
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\bin\Debug\LeapCSharp.NET4.0.dll
+C:\Users\Hernandez\Documents\Visual Studio 2012\Projects\ELaip\ELaip\obj\Debug\ELaip.Presentacion.FrmBasket.resources
